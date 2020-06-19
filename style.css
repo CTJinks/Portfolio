@@ -1,0 +1,94 @@
+body{
+    overflow-x: hidden;
+}
+.welcome-info{
+    background-color: white;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    width: 100%;
+    margin-left: 0px;
+}
+nav{
+    margin-bottom: -3px;
+    background-color: white;
+    border-bottom: 5px solid black;
+    width: 100vw;
+}
+.page-header{
+    background-image: url('head_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 5px solid black;
+    height: 300px;
+    align-content: center;
+    width: auto;
+}
+.profile-pic{
+    border: 20px solid gray;
+}
+.profile{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    border-bottom: 5px solid black;
+}
+.outside-interests{
+    border-bottom: 5px solid black;
+}
+.int-pics{
+    border-radius: 100%;
+}
+.int-text{
+    padding-top: 20px;
+}
+.int-margin{
+    margin-top:50px;
+}
+.interests-bottom{
+    padding-bottom: 50px;
+    border-bottom: 5px solid black;
+}
+.skills{
+    background-image: linear-gradient(white,rgb(237,38,26),rgb(237,38,26),rgb(237,38,26),white);
+}
+.skills-label{
+    margin-bottom: 35px;
+}
+.skill-icons{
+    background-color: white;
+    padding: 5px;
+    border: solid black;
+    height: 150px;
+    width: 150px;
+    margin: 0px;
+    
+}
+#c-icon{
+    border: solid black;
+    height: 150px;
+    width: 150px;
+}
+.logo{
+    height: 75px;
+}
+.portfolio{
+    margin-top: 80px;
+    padding-bottom: 40px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+.coming-soon{
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.Linkedin{
+    margin-bottom: 100px;
+}
+footer{
+    background-color: rgb(237,38,26);
+    color: white;
+    border-top: 2px solid black;
+}
+.foot-info{
+    color: black;
+}
